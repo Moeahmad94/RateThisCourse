@@ -6,12 +6,26 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F1D1EFB01A270A5E00D8B26E /* Index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Index.html; sourceTree = "<group>"; usesTabs = 1; };
+		F1D1EFB11A270E2C00D8B26E /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		F1D1EFB21A270F2F00D8B26E /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		F1D1EFB31A27287000D8B26E /* photo 1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo 1.JPG"; sourceTree = "<group>"; };
+		F1D1EFB41A27287000D8B26E /* photo 2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo 2.JPG"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F1D1EFA91A2709E900D8B26E = {
 			isa = PBXGroup;
 			children = (
+				F1D1EFB31A27287000D8B26E /* photo 1.JPG */,
+				F1D1EFB41A27287000D8B26E /* photo 2.JPG */,
+				F1D1EFB21A270F2F00D8B26E /* Script.js */,
+				F1D1EFB11A270E2C00D8B26E /* Style.css */,
+				F1D1EFB01A270A5E00D8B26E /* Index.html */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 /* End PBXGroup section */
 
